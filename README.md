@@ -1,4 +1,4 @@
-https://morillo.visualstudio.com/APEC/_apis/build/status/alberto-morillo.pipelines-java?branchName=master
+[![Build Status](https://morillo.visualstudio.com/APEC/_apis/build/status/alberto-morillo.pipelines-java?branchName=master)](https://morillo.visualstudio.com/APEC/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
